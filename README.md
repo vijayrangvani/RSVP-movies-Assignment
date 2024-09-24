@@ -22,9 +22,9 @@ This project showcases a comprehensive **RSVP Movies SQL Analysis** focusing on 
 - Generating actionable insights for business strategy.
 
 ## File Structure
-- `SQL-Movies-Analysis.sql`: SQL queries to analyze the RSVP Movies dataset.
-- `Data/IMDb_movies.csv`: Raw dataset used for the analysis.
-- `Documentation/EXECUTIVE SUMMARY.pdf`: Contains high-level insights and recommendations based on the SQL analysis.
+- `SQL Script.sql`: SQL queries to analyze the RSVP Movies dataset.
+- `IMDb_movies_Data_&_ERD.xlsx`: Raw dataset used for the analysis.
+- `EXECUTIVE SUMMARY AND RECOMMENDATIONS.pdf`: Contains high-level insights and recommendations based on the SQL analysis.
 
 ## How to Run This Project
 1. **MSSQL**: Use any SQL Server environment (e.g., SQL Server Management Studio) to execute the queries.
