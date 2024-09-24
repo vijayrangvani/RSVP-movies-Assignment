@@ -1,6 +1,6 @@
 # RSVP Movies SQL Analysis 🎥📊
 
-![RSVP Movies Analysis](https://github.com/user-attachments/assets/movie-analysis-preview.png)
+![RSVP Movies Analysis](https://github.com/user-attachments/assets/6b9160c8-ccc2-466f-9eeb-c769cd88ea9f)
 
 ## Overview
 This project showcases a comprehensive **RSVP Movies SQL Analysis** focusing on key performance indicators such as box office collections, movie ratings, audience preferences, and genre trends. Using **SQL** for querying the dataset, we extract insights to aid in making data-driven decisions about future movie projects.
